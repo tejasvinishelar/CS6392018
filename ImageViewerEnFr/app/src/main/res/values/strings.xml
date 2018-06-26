@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageViewerEnFr</string>
+    <string name="action_settings">Settings</string>
+    <string name="monuments_info">Monuments have been created for thousands of years and are frequently used to improve the appearance of a city or location.</string>
+</resources>
