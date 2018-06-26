@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840244298242",
+    "firebase_url": "https://fir-training-8d644.firebaseio.com",
+    "project_id": "fir-training-8d644",
+    "storage_bucket": "fir-training-8d644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840244298242:android:dffe87594a3ce378",
+        "android_client_info": {
+          "package_name": "com.example.tejasvinishelar.firebasetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840244298242-o5rgpp21e58eqvh6rh42dbh524g694u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tejasvinishelar.firebasetraining",
+            "certificate_hash": "e986ac6ece3634e65d1eff057cc445425d44286c"
+          }
+        },
+        {
+          "client_id": "840244298242-dntclhunn9pknsquessdvpbv2ujd1sii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPt7qVGSmPaqQo4SblMT1BBL2Jf4rNXS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840244298242-dntclhunn9pknsquessdvpbv2ujd1sii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
