@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DistanceConverterMilesToKm</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert_to_kilometer">Convert To Kilometer</string>
+</resources>
